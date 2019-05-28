@@ -1,0 +1,139 @@
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+
+}
+h2
+{
+  color: #12d3cf;
+}
+body
+{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  position: static;
+}
+.Top
+{
+  background-color: #EAF6F6;
+  height: 800px;
+  width: 100%;
+  position: relative;
+
+}
+.middle-container
+{
+  height: 1000px;
+  width:100%;
+  margin-top: 100px;
+}
+#first
+{
+  position: relative;
+  left: 400px;
+  height: 100px;
+  width: 150px;
+
+}
+#sec
+{
+  position: absolute;
+  left: 100px;
+  height: 150px;
+  width: 150px;
+  top: 190px;
+
+}
+#mount
+{
+
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  bottom: 50px;
+  left:350px;
+
+}
+#fhead
+{
+color: #66BFBF;
+font-family: 'Sacramento', cursive;
+font-style: italic;
+margin-top: 42px;
+font-size : 500%;
+}
+
+#third
+{
+  margin: 0;
+  height: 150px;
+  width: 100px;
+  position: absolute;
+  top: 0px;
+  left : 10px;
+}
+#ppic
+{
+  border-radius: 50%;
+}
+.anim
+{
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  float: left;
+  margin : 0px 30px 50px 0px;
+
+}
+.food{
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  float: right;
+
+}
+#fp
+{
+  position: absolute;
+  top: 270px;
+  right: 470px;
+  color: #66BFBF;
+}
+.skill-row
+{
+  width: 60%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.para
+{
+  line-height: 2;
+}
+hr
+{
+  width: 200px;
+  border-top: 5px dotted grey;
+  margin: 50px auto 50px auto;
+}
+.bottom-container
+{
+  background-color: #5bd1d7;
+  padding: 20px;
+}
+.btn
+{
+  padding: 5px;
+  color: white;
+  height: 10px;
+  width: 10px;
+  background-color: #66BFBF;
+}
+.btn:hover
+{
+  color:red;
+  height: 100px;
+  width: 100px;
+
+}
